@@ -1,8 +1,8 @@
 {
-  "name": "apponix-toucanpayments-april2023-pakage",
+  "name": "apponix-toucanpayemts-2023-angular",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "aravind_intro.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
